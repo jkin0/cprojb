@@ -4,7 +4,7 @@ A simple C project builder script.
 
 ## Installation
 
-1. Download the shell script:
+1. Download the shell script via the [releases page](https://github.com/jkin0/cprojb/releases/latest) or with wget:
 
 ```sh
 wget https://raw.githubusercontent.com/jkin0/cprojb/master/cprojb.sh
