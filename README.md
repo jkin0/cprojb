@@ -7,10 +7,16 @@ A simple C project builder script.
 1. Download the shell script:
 
 ```sh
-curl https://github.com/jkin0/cprojb/cprojb.sh
+wget https://raw.githubusercontent.com/jkin0/cprojb/master/cprojb.sh
 ```
 
-2. Make the script global:
+2. Give the script permissions:
+
+```sh
+chmod +x ./cprojb.sh
+```
+
+3. Make the script global:
 
 ```sh
 sudo mv cprojb.sh /usr/bin/cprojb
